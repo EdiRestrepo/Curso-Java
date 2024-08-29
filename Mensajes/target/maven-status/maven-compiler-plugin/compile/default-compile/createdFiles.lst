@@ -1,0 +1,6 @@
+com\estival\mensajes\Mensaje.class
+com\estival\mensajes\Conexion.class
+com\estival\mensajes\Main.class
+com\estival\mensajes\resources\JakartaEE10Resource.class
+com\estival\mensajes\MensajeDao.class
+com\estival\mensajes\JakartaRestConfiguration.class
